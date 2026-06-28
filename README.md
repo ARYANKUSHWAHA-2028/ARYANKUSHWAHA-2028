@@ -106,7 +106,7 @@ Modern responsive portfolio showcasing my skills, projects, certifications and a
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 **Live Demo:** *Add Portfolio Link*
+🔗 **Live Demo:** *https://aryan-kushwaha-portfolio.onrender.com/*
 
 🔗 **Repository:** *Add Repository Link*
 
