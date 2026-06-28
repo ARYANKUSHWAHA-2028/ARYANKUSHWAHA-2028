@@ -59,6 +59,22 @@ I'm a Computer Science student passionate about building scalable backend applic
 
 
 
+## 💼 Professional Experience
+
+### Backend Engineer Intern | HCLTech (Virtual)
+📅 June 2026 – Present
+
+- Working as a Backend Engineer Intern, contributing to the development of scalable backend solutions.
+- Developing RESTful APIs using Python and Django.
+- Designing and managing relational databases using MySQL.
+- Following software engineering best practices to write clean, maintainable, and efficient code.
+- Using Git and GitHub for version control and collaborative development.
+- Gaining hands-on experience with backend architecture, API development, and real-world software engineering workflows.
+
+📌 **Status:** Internship in progress. Certificate will be added upon successful completion.
+
+> 📌 Internship currently in progress. Certificate will be added upon successful completion.
+
 ## 🚀 Featured Projects
 
 ### 🛡️ JanSahay – AI Crime Intelligence Platform
