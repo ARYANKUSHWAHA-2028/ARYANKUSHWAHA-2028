@@ -108,7 +108,7 @@ Modern responsive portfolio showcasing my skills, projects, certifications and a
 
 🔗 **Live Demo:** *https://aryan-kushwaha-portfolio.onrender.com/*
 
-🔗 **Repository:** *https://github.com/ARYANKUSHWAHA-2028/ARYANKUSHWAHA-2028*
+🔗 **Repository:** *[https://github.com/ARYANKUSHWAHA-2028/ARYANKUSHWAHA-2028](https://github.com/ARYANKUSHWAHA-2028/Aryan-Kushwaha-Portfolio)*
 
 ---
 
