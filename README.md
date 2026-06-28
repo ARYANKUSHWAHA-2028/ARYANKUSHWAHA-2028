@@ -90,13 +90,13 @@ I'm a Computer Science Engineering student passionate about building scalable ba
 
 ## 🚀 Featured Projects
 
-### 🛡️ JanSahay – AI Crime Intelligence Platform
+### 🛡️ JansaHayak – AI Crime Intelligence Platform
 
 AI-powered crime intelligence platform for crime analysis, hotspot visualization and intelligent insights.
 
 **Tech Stack:** Python • Django • REST API • Machine Learning • HTML • CSS • JavaScript • MySQL
 
-🔗 **Repository:** *Add Repository Link*
+🔗 **Repository:** *https://github.com/ARYANKUSHWAHA-2028/JansaHayak*
 
 ---
 
