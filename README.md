@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Kushwaha</h1>
 
-<h3 align="center">
-Software Developer | Python | Django | AI Enthusiast | Cybersecurity Learner
-</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,java,cpp,mysql,html,css,js,git,github,vscode&theme=dark"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ARYANKUSHWAHA-2028&label=Profile%20Views&color=7AA2F7&style=flat-square" />
