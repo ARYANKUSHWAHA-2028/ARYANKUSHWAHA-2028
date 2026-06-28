@@ -56,3 +56,63 @@ I'm a Computer Science student passionate about building scalable backend applic
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+## 🚀 Featured Projects
+
+### 🛡️ JanSahay – AI Crime Intelligence Platform
+An AI-powered crime intelligence platform designed to help law enforcement agencies analyze crime data, identify patterns, visualize crime hotspots, and generate actionable insights through an interactive dashboard.
+
+**Tech Stack:** Python • Django • REST API • Machine Learning • HTML • CSS • JavaScript • MySQL
+
+🔗 **Repository:** *(Add your GitHub repository link here once available)*
+
+---
+
+### 🌐 Personal Portfolio Website
+A modern, responsive portfolio website showcasing my skills, projects, technical expertise, certifications, and professional journey with a clean user interface.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 **Live Demo:** *(Add your portfolio website link)*
+
+🔗 **Repository:** *(Add GitHub repository link)*
+
+---
+
+### 📊 More Projects Coming Soon
+Currently working on backend development, AI applications, and real-world software projects to strengthen my technical skills and solve practical problems.
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARYANKUSHWAHA-2028&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANKUSHWAHA-2028&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ARYANKUSHWAHA-2028&theme=tokyonight"/>
+</p>## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ARYANKUSHWAHA-2028&theme=tokyonight"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ARYANKUSHWAHA-2028&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
+
+## 📊 Contribution Graph
+
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ARYANKUSHWAHA-2028&theme=tokyo-night)](https://github.com/ARYANKUSHWAHA-2028)
+
+---
+
+⭐ *"Code. Learn. Build. Improve. Repeat."*
+
+Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects.
