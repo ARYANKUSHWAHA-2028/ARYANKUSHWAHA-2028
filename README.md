@@ -23,3 +23,36 @@ I'm a Computer Science student passionate about building scalable backend applic
 - 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
 - 🌐 Portfolio: https://YOUR-PORTFOLIO-LINK
 - 📧 Email: your.email@example.com
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Backend Development and AI-powered Applications
+- 🌱 Currently learning Django, REST APIs, Machine Learning, and Cloud Computing
+- 🚀 Building real-world software solutions with a focus on scalability and usability
+- 🔍 Interested in Cybersecurity, Artificial Intelligence, and Software Engineering
+- 🎯 Goal: Become a skilled Software Engineer capable of solving real-world problems through technology
+
+  ## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
